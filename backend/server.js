@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const cors = require('cors');
 
-const urlRoutes = require('./routes/urlroutes');
+const urlRoutes = require('./routes/urlRoutes');
 
 dotenv.config(); // Load env variables
 
