@@ -1,0 +1,4 @@
+usrname=ritiknirwan99
+pass=4ePVi0oqZ4QXv3w9
+
+mongodb+srv://ritiknirwan99:4ePVi0oqZ4QXv3w9@cluster0.u9aj0ej.mongodb.net/
