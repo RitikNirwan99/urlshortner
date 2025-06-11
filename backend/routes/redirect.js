@@ -1,4 +1,4 @@
-const Url = require('../models/Url');
+const Url = require('../models/url');
 
 module.exports = async (req, res) => {
   const { shortId } = req.params;
